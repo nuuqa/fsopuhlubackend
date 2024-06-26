@@ -1,1 +1,1 @@
-https://fsopuhlubackend.onrender.com/api/persons/
+https://fsopuhlubackend.onrender.com/
